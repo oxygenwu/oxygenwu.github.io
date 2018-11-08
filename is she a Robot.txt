@@ -1,0 +1,70 @@
+Roles:
+
+scientist1(s1)**
+judge-Mamadou
+voiceover-Pierre
+
+lawyer1(l1)-Harmza
+scientist2(s2)-Gregory
+
+lawyer2(l2)-Shuang
+robot-Zahra
+witness1:ex-girlfriend of s2-Sandra
+witness2:scientist3(s3)-Zeinaba
+
+
+
+
+Background:
+
+1.With the development of technology,The robots became more and more <<humanized>>  ,
+Eventually,we can no longer distinguish humans and robots from the appearance,even from DNA.
+Even so,humains are still confident that Robots are under control,nothing more than programme.
+
+2.s1 s2 s3 three data scientists,They have known each other for more than twenty years.
+s1 is a conspicuous figure ,smart,handsome and popular.(refer to Sirius Black)
+s2, really genius but really a lone wolf.(refer to Severus Snape)
+Since the student days,s1 has always looked down on s2 and laughed at him.
+s3 is the best friend of s1.(refer to James Potter)
+
+
+Fact:
+
+1.On a dark night, s1 were killed by the robot created by s2.
+2.There are no regulations in the law that punish robots.
+
+arguments:
+
+l1 is engaged by s2 and the robot is his accused.
+They want to prove that the robot is enough<<humanized>> to be independant, it,or she should be considred as a real person who adapts our regulations.
+So,it's her ,the robot,the unique criminal, s2 is not guilty,enven though he is her <<master>>.
+
+
+l2 is engaged by s3 and s2 is his accused.
+They believe that the robot is juste un Killing tool, It is no different from a knife or a gun.
+They aim at bringing s2 ,the real murderer responsible to justice.
+
+
+
+
+in courts:
+
+the robot: "......I still remenber that when he saw me firstime in lab ,he said 'Look at these scraps ! so is her? your <<daughter>>? Ah,How fantastic the heredity is!' "
+
+
+witness1: Once we celebrated a Valentine's Day together......I thoght that he has found my valentine's gift but in fact ,lisen, what did he say --
+
+"why don't the petals of these roses follow the Fibonacci sequence?"
+
+
+l2 : We have seen how sensible s2 is in the field of science
+
+ 
+
+
+
+
+
+
+
+
