@@ -1,0 +1,34 @@
+﻿#resultats span {
+	display:table-cell;
+	width:200px;
+	padding:5px;
+	font-family:arial;
+}
+				
+#resultats p {
+	display:table-row;
+}
+
+#resultats p:first-child {
+	background-color:black;
+	color:white;
+	font-variant:small-caps;
+}
+
+#resultats .impair {
+	background-color:#A5DF00;
+}
+
+#resultats .pair {
+	background-color:#FBF5EFs;
+}
+
+.comment {
+	font-size:smaller;
+	color:green;
+}
+
+#resultats img {
+	width:50px;
+}
+	

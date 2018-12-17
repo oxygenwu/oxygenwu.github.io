@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<title><?php echo $titre; ?></title>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<link type="text/css" media="screen" rel="stylesheet" href="<?php echo $css; ?>" />
+	</head>
+	<body>
+		<h1><a href="controleur.php">Liste des ballon de or winner enregistrées</a></h1>
+		<?php echo $tableau; ?>
+		<hr/>
+		<div id="formulaires">
+			<form name="form-insertion" action="controleur.php" method="post">
+				<p>
+					<input type="hidden" name="action" value="insertion"/>
+					<label for="refc">Saisissez les informations</label> :<br/>
+					<input type="text" name="annee" placeholder="2018" /><br/>
+					<input type="text" name="nom" placeholder="Modric"/><br/>
+					<input type="text" name="prenom" placeholder="Luka"/><br/>
+					<input type="text" name="pay" placeholder="Croatie"/><br/>
+					<input type="submit" value="Insérer" /> 
+					<input type="reset" value="Annuler" />
+				</p>
+			</form>
+			<hr/>
+			<form name="form-filtre" action="controleur.php" method="post">
+				<p>
+					<input type="hidden" name="action" value="filtrage"/>
+					<label for="annee">Saisissez le refc à rechercher</label> :
+					<?php echo $liste; ?>
+					<!--<input type="text" name="refc" id="refc" placeholder="refc" /><br/>-->
+					<input type="submit" value="Chercher" /> 
+					<input type="reset" value="Annuler" />
+				</p>
+			</form>
+		</div>
+	</body>
+</html>
