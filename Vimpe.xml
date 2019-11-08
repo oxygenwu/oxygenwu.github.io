@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Vimpe.css"?>
+<!DOCTYPE Trans SYSTEM "trans-14-corpus.dtd">
+<Document>
+  <Turn>
+    <tour nbmots="54" id="000000">
+      <mot L3lexeme="HISTOIRE" nbsyll="2" L3cat="NOM" genre="f" freq="359.92" id="00000000" TTcat="NOM" TTlexeme="HISTOIRE" tm="" nombre="s" phon="istwaʁ">histoire</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00000001" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00000002" TTcat="NAM" TTlexeme="MONT-SAINT-MICHEL" tm="" nombre="" phon="***mont-saint-michel***">mont-saint-michel</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00000003" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00000004" TTcat="NOM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="SAINT-MICHEL" nbsyll="3" L3cat="NOM" genre="" freq="0.00" id="00000005" TTcat="NAM" TTlexeme="SAINT-MICHEL" tm="" nombre="s" phon="sɛ̃miʃɛl">saint-michel</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00000006" TTcat="VER:pres" TTlexeme="ÊTRE" tm="ind:pre:3s" nombre="" phon="e">est</mot>
+      <mot L3lexeme="UN" nbsyll="1" L3cat="ADJ:num" genre="" freq="43.17" id="00000007" TTcat="DET:ART" TTlexeme="UN" tm="" nombre="" phon="ɛ̃">un</mot>
+      <mot L3lexeme="ÎLOT" nbsyll="2" L3cat="NOM" genre="m" freq="1.20" id="00000008" TTcat="NOM" TTlexeme="ÎLOT" tm="" nombre="s" phon="ilo">îlot</mot>
+      <mot L3lexeme="ROCHEUX" nbsyll="2" L3cat="ADJ" genre="m" freq="1.06" id="00000009" TTcat="ADJ" TTlexeme="ROCHEUX" tm="" nombre="" phon="ʁoʃø">rocheux</mot>
+      <mot L3lexeme="GRANITIQUE" nbsyll="3" L3cat="ADJ" genre="" freq="0.14" id="00000010" TTcat="ADJ" TTlexeme="GRANITIQUE" tm="" nombre="s" phon="gʁanitik">granitique</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00000011" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00000012" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="EST" nbsyll="1" L3cat="NOM" genre="m" freq="81.74" id="00000013" TTcat="NOM" TTlexeme="EST" tm="" nombre="s" phon="ɛst">est</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00000014" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00000015" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="EMBOUCHURE" nbsyll="3" L3cat="NOM" genre="f" freq="0.69" id="00000016" TTcat="NOM" TTlexeme="EMBOUCHURE" tm="" nombre="s" phon="ɑ̃buʃyʁ">embouchure</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00000017" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="FLEUVE" nbsyll="1" L3cat="NOM" genre="m" freq="21.58" id="00000018" TTcat="NOM" TTlexeme="FLEUVE" tm="" nombre="s" phon="flœv">fleuve</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00000019" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00000020" TTcat="NAM" TTlexeme="COUESNON" tm="" nombre="" phon="***couesnon***">couesnon</mot>
+      <punct>,</punct>
+      <mot L3lexeme="ROCHER" nbsyll="2" L3cat="NOM" genre="m" freq="16.97" id="00000021" TTcat="NOM" TTlexeme="ROCHER" tm="" nombre="s" phon="ʁoʃe">rocher</mot>
+      <mot L3lexeme="SUR" nbsyll="1" L3cat="PRE" genre="" freq="2520.11" id="00000022" TTcat="PRP" TTlexeme="SUR" tm="" nombre="" phon="syʁ">sur</mot>
+      <mot L3lexeme="LEQUEL" nbsyll="2" L3cat="PRO:int" genre="" freq="64.31" id="00000023" TTcat="PRO:REL" TTlexeme="LEQUEL" tm="" nombre="" phon="ləkɛl">lequel</mot>
+      <mot L3lexeme="AVOIR" nbsyll="1" L3cat="VER" genre="" freq="13572.40" id="00000024" TTcat="VER:pres" TTlexeme="AVOIR" tm="ind:pre:3s" nombre="" phon="a">a</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="2" L3cat="VER" genre="m" freq="32236.50" id="00000025" TTcat="VER:pper" TTlexeme="ÊTRE" tm="par:pas" nombre="s" phon="ete">été</mot>
+      <mot L3lexeme="CONSTRUIRE" nbsyll="1" L3cat="VER" genre="m" freq="67.59" id="00000026" TTcat="VER:pper" TTlexeme="CONSTRUIRE" tm="par:pas" nombre="s" phon="kɔ̃stʁɥi">construit</mot>
+      <mot L3lexeme="UN" nbsyll="1" L3cat="ADJ:num" genre="" freq="43.17" id="00000027" TTcat="DET:ART" TTlexeme="UN" tm="" nombre="" phon="ɛ̃">un</mot>
+      <mot L3lexeme="SANCTUAIRE" nbsyll="2" L3cat="NOM" genre="m" freq="4.34" id="00000028" TTcat="NOM" TTlexeme="SANCTUAIRE" tm="" nombre="s" phon="sɑ̃ktɥɛʁ">sanctuaire</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00000029" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00000030" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="HONNEUR" nbsyll="2" L3cat="NOM" genre="m" freq="130.69" id="00000031" TTcat="NOM" TTlexeme="HONNEUR" tm="" nombre="s" phon="onœʁ">honneur</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00000032" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00000033" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="ARCHANGE" nbsyll="2" L3cat="NOM" genre="m" freq="1.30" id="00000034" TTcat="NOM" TTlexeme="ARCHANGE" tm="" nombre="s" phon="aʁkɑ̃ʒ">archange</mot>
+      <mot L3lexeme="SAINT" nbsyll="1" L3cat="ADJ" genre="m" freq="23.22" id="00000035" TTcat="ADJ" TTlexeme="SAINT" tm="" nombre="s" phon="sɛ̃">saint</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00000036" TTcat="NOM" TTlexeme="MICHEL" tm="" nombre="" phon="***michel***">michel</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00000037" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="PARTIR" nbsyll="2" L3cat="VER" genre="" freq="1111.97" id="00000038" TTcat="VER:infi" TTlexeme="PARTIR" tm="inf" nombre="" phon="paʁtiʁ">partir</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00000039" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00000040" TTcat="VER:infi" TTlexeme="@ORD@" tm="" nombre="" phon="***709***">709</mot>
+      <mot L3lexeme="ANTÉRIEUREMENT" nbsyll="5" L3cat="ADV" genre="" freq="0.36" id="00000041" TTcat="ADV" TTlexeme="ANTÉRIEUREMENT" tm="" nombre="" phon="ɑ̃teʁjœʁəmɑ̃">antérieurement</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00000042" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="CETTE" nbsyll="1" L3cat="ADJ:dem" genre="f" freq="1902.27" id="00000043" TTcat="PRO:DEM" TTlexeme="CE" tm="" nombre="s" phon="sɛt">cette</mot>
+      <mot L3lexeme="DATE" nbsyll="1" L3cat="NOM" genre="f" freq="31.41" id="00000044" TTcat="NOM" TTlexeme="DATE" tm="" nombre="s" phon="dat">date</mot>
+      <punct>,</punct>
+      <mot L3lexeme="IL" nbsyll="1" L3cat="ADJ:num" genre="" freq="0.40" id="00000045" TTcat="PRO:PER" TTlexeme="IL" tm="" nombre="" phon="il">il</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00000046" TTcat="VER:simp" TTlexeme="ÊTRE" tm="ind:pas:3s" nombre="" phon="fy">fut</mot>
+      <mot L3lexeme="CONNAÎTRE" nbsyll="2" L3cat="VER" genre="m" freq="961.03" id="00000047" TTcat="VER:pper" TTlexeme="CONNAÎTRE" tm="par:pas" nombre="s" phon="kony">connu</mot>
+      <mot L3lexeme="SOUS" nbsyll="1" L3cat="PRE" genre="" freq="315.49" id="00000048" TTcat="PRP" TTlexeme="SOUS" tm="" nombre="" phon="su">sous</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00000049" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="APPELLATION" nbsyll="3" L3cat="NOM" genre="f" freq="0.36" id="00000050" TTcat="NOM" TTlexeme="APPELLATION" tm="" nombre="s" phon="apelasjɔ̃">appellation</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00000051" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <punct>«</punct>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00000052" TTcat="NOM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="TOMBE" nbsyll="0" L3cat="NOM" genre="f" freq="49.67" id="00000053" TTcat="NOM" TTlexeme="TOMBE" tm="" nombre="s" phon="tɔ̃b">tombe</mot>
+      <punct>»</punct>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour nbmots="16" id="000001">
+      <mot L3lexeme="PENDANT" nbsyll="2" L3cat="PRE" genre="" freq="312.62" id="00001000" TTcat="PRP" TTlexeme="PENDANT" tm="" nombre="" phon="pɑ̃dɑ̃">pendant</mot>
+      <mot L3lexeme="TOUT" nbsyll="1" L3cat="ADJ" genre="m" freq="2948.75" id="00001001" TTcat="PRO:IND" TTlexeme="TOUT" tm="" nombre="s" phon="tu">tout</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00001002" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="MOYEN" nbsyll="2" L3cat="ADJ" genre="m" freq="50.69" id="00001003" TTcat="ADJ" TTlexeme="MOYEN" tm="" nombre="s" phon="mwajɛ̃">moyen</mot>
+      <mot L3lexeme="AGE" nbsyll="1" L3cat="NOM" genre="m" freq="3.37" id="00001004" TTcat="NOM" TTlexeme="AGE" tm="" nombre="s" phon="aʒ">age</mot>
+      <punct>,</punct>
+      <mot L3lexeme="IL" nbsyll="1" L3cat="ADJ:num" genre="" freq="0.40" id="00001005" TTcat="PRO:PER" TTlexeme="IL" tm="" nombre="" phon="il">il</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00001006" TTcat="VER:simp" TTlexeme="ÊTRE" tm="ind:pas:3s" nombre="" phon="fy">fut</mot>
+      <mot L3lexeme="COURAMMENT" nbsyll="3" L3cat="ADV" genre="" freq="1.38" id="00001007" TTcat="ADV" TTlexeme="COURAMMENT" tm="" nombre="" phon="kuʁamɑ̃">couramment</mot>
+      <mot L3lexeme="APPELER" nbsyll="3" L3cat="VER" genre="m" freq="1165.48" id="00001008" TTcat="VER:pper" TTlexeme="APPELER" tm="par:pas" nombre="s" phon="apəle">appelé</mot>
+      <punct>«</punct>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00001009" TTcat="NOM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="SAINT-MICHEL" nbsyll="3" L3cat="NOM" genre="" freq="0.00" id="00001010" TTcat="NAM" TTlexeme="SAINT-MICHEL" tm="" nombre="s" phon="sɛ̃miʃɛl">saint-michel</mot>
+      <mot L3lexeme="AU" nbsyll="1" L3cat="ART:def" genre="m" freq="3737.75" id="00001011" TTcat="PRP:det" TTlexeme="AU" tm="" nombre="s" phon="o">au</mot>
+      <mot L3lexeme="PÉRIL" nbsyll="2" L3cat="NOM" genre="m" freq="7.76" id="00001012" TTcat="NOM" TTlexeme="PÉRIL" tm="" nombre="s" phon="peʁil">péril</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00001013" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00001014" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="MER" nbsyll="1" L3cat="NOM" genre="f" freq="106.61" id="00001015" TTcat="NOM" TTlexeme="MER" tm="" nombre="s" phon="mɛʁ">mer</mot>
+      <punct>»</punct>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="et" nbmots="46" id="000002">
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00002000" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="ROCHER" nbsyll="2" L3cat="NOM" genre="m" freq="16.97" id="00002001" TTcat="NOM" TTlexeme="ROCHER" tm="" nombre="s" phon="ʁoʃe">rocher</mot>
+      <mot L3lexeme="NE" nbsyll="1" L3cat="ADV" genre="" freq="22287.83" id="00002002" TTcat="ADV" TTlexeme="NE" tm="" nombre="" phon="nə">ne</mot>
+      <mot L3lexeme="REPRÉSENTER" nbsyll="3" L3cat="VER" genre="" freq="48.78" id="00002003" TTcat="VER:pres" TTlexeme="REPRÉSENTER" tm="ind:pre:3s" nombre="" phon="ʁəpʁezɑ̃t">représente</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00002004" TTcat="KON" TTlexeme="QUE" tm="" nombre="" phon="***qu'***">qu'</mot>
+      <mot L3lexeme="UNE" nbsyll="1" L3cat="ADJ:num" genre="" freq="14.54" id="00002005" TTcat="DET:ART" TTlexeme="UN" tm="" nombre="" phon="yn">une</mot>
+      <mot L3lexeme="PETIT" nbsyll="2" L3cat="ADJ" genre="f" freq="1106.80" id="00002006" TTcat="ADJ" TTlexeme="PETIT" tm="" nombre="s" phon="pətit">petite</mot>
+      <mot L3lexeme="PARTIE" nbsyll="2" L3cat="NOM" genre="f" freq="191.19" id="00002007" TTcat="NOM" TTlexeme="PARTIE" tm="" nombre="s" phon="paʁti">partie</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00002008" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00002009" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="COMMUNE" nbsyll="2" L3cat="NOM" genre="f" freq="3.19" id="00002010" TTcat="NOM" TTlexeme="COMMUNE" tm="" nombre="s" phon="komyn">commune</mot>
+      <mot L3lexeme="QUI" nbsyll="1" L3cat="PRO:int" genre="" freq="5516.52" id="00002011" TTcat="PRO:REL" TTlexeme="QUI" tm="" nombre="" phon="ki">qui</mot>
+      <mot L3lexeme="S" nbsyll="0" L3cat="NOM" genre="m" freq="38.31" id="00002012" TTcat="PRO:PER" TTlexeme="SE" tm="" nombre="" phon="s">s'</mot>
+      <mot L3lexeme="ÉTENDRE" nbsyll="2" L3cat="VER" genre="" freq="21.90" id="00002013" TTcat="VER:pres" TTlexeme="ÉTENDRE" tm="ind:pre:3s" nombre="" phon="etɑ̃">étend</mot>
+      <mot L3lexeme="AUSSI" nbsyll="2" L3cat="ADV" genre="" freq="1402.33" id="00002014" TTcat="ADV" TTlexeme="AUSSI" tm="" nombre="" phon="osi">aussi</mot>
+      <mot L3lexeme="SUR" nbsyll="1" L3cat="PRE" genre="" freq="2520.11" id="00002015" TTcat="PRP" TTlexeme="SUR" tm="" nombre="" phon="syʁ">sur</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00002016" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="DIGUE" nbsyll="1" L3cat="NOM" genre="f" freq="1.85" id="00002017" TTcat="NOM" TTlexeme="DIGUE" tm="" nombre="s" phon="dig">digue</mot>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00002018" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <mot L3lexeme="PLUSIEURS" nbsyll="2" L3cat="ADJ:ind" genre="" freq="66.98" id="00002019" TTcat="PRO:IND" TTlexeme="PLUSIEURS" tm="" nombre="p" phon="plyzjœʁ">plusieurs</mot>
+      <mot L3lexeme="DIZAINE" nbsyll="2" L3cat="NOM" genre="f" freq="11.08" id="00002020" TTcat="NOM" TTlexeme="DIZAINE" tm="" nombre="p" phon="dizɛn">dizaines</mot>
+      <mot L3lexeme="D'" nbsyll="0" L3cat="PRE" genre="" freq="7224.74" id="00002021" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="d">d'</mot>
+      <mot L3lexeme="HECTARE" nbsyll="2" L3cat="NOM" genre="m" freq="2.95" id="00002022" TTcat="NOM" TTlexeme="HECTARE" tm="" nombre="p" phon="ɛktaʁ">hectares</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00002023" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="POLDER" nbsyll="2" L3cat="NOM" genre="m" freq="0.00" id="00002024" TTcat="NOM" TTlexeme="POLDER" tm="" nombre="p" phon="poldɛʁ">polders</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00002025" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="PARTIE" nbsyll="2" L3cat="NOM" genre="f" freq="191.19" id="00002026" TTcat="NOM" TTlexeme="PARTIE" tm="" nombre="s" phon="paʁti">partie</mot>
+      <mot L3lexeme="ESSENTIEL" nbsyll="3" L3cat="ADJ" genre="f" freq="9.85" id="00002027" TTcat="ADJ" TTlexeme="ESSENTIEL" tm="" nombre="s" phon="esɑ̃sjɛl">essentielle</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00002028" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="ROCHER" nbsyll="2" L3cat="NOM" genre="m" freq="16.97" id="00002029" TTcat="NOM" TTlexeme="ROCHER" tm="" nombre="s" phon="ʁoʃe">rocher</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00002030" TTcat="VER:pres" TTlexeme="ÊTRE" tm="ind:pre:3s" nombre="" phon="e">est</mot>
+      <mot L3lexeme="COUVRIR" nbsyll="2" L3cat="VER" genre="f" freq="88.29" id="00002031" TTcat="VER:pper" TTlexeme="COUVRIR" tm="par:pas" nombre="s" phon="kuvɛʁt">couverte</mot>
+      <mot L3lexeme="PAR" nbsyll="1" L3cat="PRE" genre="" freq="1753.02" id="00002032" TTcat="PRP" TTlexeme="PAR" tm="" nombre="" phon="paʁ">par</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00002033" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="EMPRISE" nbsyll="2" L3cat="NOM" genre="f" freq="3.08" id="00002034" TTcat="NOM" TTlexeme="EMPRISE" tm="" nombre="s" phon="ɑ̃pʁiz">emprise</mot>
+      <mot L3lexeme="AU" nbsyll="1" L3cat="ART:def" genre="m" freq="3737.75" id="00002035" TTcat="PRP:det" TTlexeme="AU" tm="" nombre="s" phon="o">au</mot>
+      <mot L3lexeme="SOL" nbsyll="1" L3cat="NOM" genre="m" freq="47.17" id="00002036" TTcat="NOM" TTlexeme="SOL" tm="" nombre="s" phon="sɔl">sol</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00002037" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00002038" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="ABBAYE" nbsyll="3" L3cat="NOM" genre="f" freq="3.94" id="00002039" TTcat="NOM" TTlexeme="ABBAYE" tm="" nombre="s" phon="abei">abbaye</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00002040" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00002041" TTcat="NOM" TTlexeme="MONT-SAINT-MICHEL" tm="" nombre="" phon="***mont-saint-michel***">mont-saint-michel</mot>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00002042" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00002043" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="SON" nbsyll="0" L3cat="ADJ:pos" genre="" freq="1740.43" id="00002044" TTcat="DET:POS" TTlexeme="SON" tm="" nombre="" phon="sɔ̃">son</mot>
+      <mot L3lexeme="DOMAINE" nbsyll="2" L3cat="NOM" genre="m" freq="21.57" id="00002045" TTcat="NOM" TTlexeme="DOMAINE" tm="" nombre="s" phon="domɛn">domaine</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="et" nbmots="57" id="000003">
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00003000" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00003001" TTcat="NAM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="2" L3cat="VER" genre="" freq="32236.50" id="00003002" TTcat="VER:impf" TTlexeme="ÊTRE" tm="ind:imp:3s" nombre="" phon="etɛ">était</mot>
+      <mot L3lexeme="RATTACHER" nbsyll="3" L3cat="VER" genre="m" freq="2.13" id="00003003" TTcat="VER:pper" TTlexeme="RATTACHER" tm="par:pas" nombre="s" phon="ʁataʃe">rattaché</mot>
+      <mot L3lexeme="DEPUIS" nbsyll="2" L3cat="PRE" genre="" freq="483.95" id="00003004" TTcat="PRP" TTlexeme="DEPUIS" tm="" nombre="" phon="dəpɥi">depuis</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00003005" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="ÉPOQUE" nbsyll="2" L3cat="NOM" genre="f" freq="68.44" id="00003006" TTcat="NOM" TTlexeme="ÉPOQUE" tm="" nombre="s" phon="epɔk">époque</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00003007" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00003008" TTcat="NAM" TTlexeme="CHARLEMAGNE" tm="" nombre="" phon="***charlemagne***">charlemagne</mot>
+      <mot L3lexeme="AU" nbsyll="1" L3cat="ART:def" genre="m" freq="3737.75" id="00003009" TTcat="PRP:det" TTlexeme="AU" tm="" nombre="s" phon="o">au</mot>
+      <mot L3lexeme="DIOCÈSE" nbsyll="2" L3cat="NOM" genre="m" freq="0.44" id="00003010" TTcat="NOM" TTlexeme="DIOCÈSE" tm="" nombre="s" phon="djosɛz">diocèse</mot>
+      <mot L3lexeme="D'" nbsyll="0" L3cat="PRE" genre="" freq="7224.74" id="00003011" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="d">d'</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00003012" TTcat="NAM" TTlexeme="AVRANCHES" tm="" nombre="" phon="***avranches***">avranches</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00003013" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00003014" TTcat="NAM" TTlexeme="NEUSTRIE" tm="" nombre="" phon="***neustrie***">neustrie</mot>
+      <punct>,</punct>
+      <mot L3lexeme="CE" nbsyll="1" L3cat="ADJ:dem" genre="m" freq="2739.25" id="00003015" TTcat="PRO:DEM" TTlexeme="CE" tm="" nombre="s" phon="sø">ce</mot>
+      <mot L3lexeme="QUI" nbsyll="1" L3cat="PRO:int" genre="" freq="5516.52" id="00003016" TTcat="PRO:REL" TTlexeme="QUI" tm="" nombre="" phon="ki">qui</mot>
+      <mot L3lexeme="REFLÉTER" nbsyll="2" L3cat="VER" genre="" freq="5.57" id="00003017" TTcat="VER:pres" TTlexeme="REFLÉTER" tm="ind:pre:3s" nombre="" phon="ʁəflɛt">reflète</mot>
+      <mot L3lexeme="VRAISEMBLABLEMENT" nbsyll="5" L3cat="ADV" genre="" freq="1.39" id="00003018" TTcat="ADV" TTlexeme="VRAISEMBLABLEMENT" tm="" nombre="" phon="vʁɛsɑ̃blabləmɑ̃">vraisemblablement</mot>
+      <mot L3lexeme="UNE" nbsyll="1" L3cat="ADJ:num" genre="" freq="14.54" id="00003019" TTcat="DET:ART" TTlexeme="UN" tm="" nombre="" phon="yn">une</mot>
+      <mot L3lexeme="SITUATION" nbsyll="2" L3cat="NOM" genre="f" freq="108.99" id="00003020" TTcat="NOM" TTlexeme="SITUATION" tm="" nombre="s" phon="sitɥasjɔ̃">situation</mot>
+      <mot L3lexeme="ANTÉRIEUR" nbsyll="3" L3cat="ADJ" genre="f" freq="3.82" id="00003021" TTcat="ADJ" TTlexeme="ANTÉRIEUR" tm="" nombre="s" phon="ɑ̃teʁjœʁ">antérieure</mot>
+      <punct>,</punct>
+      <mot L3lexeme="C'EST-À-DIRE" nbsyll="3" L3cat="ADV" genre="" freq="0.00" id="00003022" TTcat="ADV" TTlexeme="C'EST-À-DIRE" tm="" nombre="" phon="sɛtadiʁ">c'est-à-dire</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00003023" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="APPARTENANCE" nbsyll="4" L3cat="NOM" genre="f" freq="1.83" id="00003024" TTcat="NOM" TTlexeme="APPARTENANCE" tm="" nombre="s" phon="apaʁtənɑ̃s">appartenance</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00003025" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00003026" TTcat="NAM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="AU" nbsyll="1" L3cat="ART:def" genre="m" freq="3737.75" id="00003027" TTcat="PRP:det" TTlexeme="AU" tm="" nombre="s" phon="o">au</mot>
+      <mot L3lexeme="TERRITOIRE" nbsyll="3" L3cat="NOM" genre="m" freq="19.09" id="00003028" TTcat="NOM" TTlexeme="TERRITOIRE" tm="" nombre="s" phon="tɛʁitwaʁ">territoire</mot>
+      <mot L3lexeme="DES" nbsyll="1" L3cat="ART:ind" genre="" freq="6055.71" id="00003029" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="p" phon="de">des</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00003030" TTcat="NAM" TTlexeme="ABRINCATES" tm="" nombre="" phon="***abrincates***">abrincates</mot>
+      <punct>,</punct>
+      <mot L3lexeme="SUR" nbsyll="1" L3cat="PRE" genre="" freq="2520.11" id="00003031" TTcat="PRP" TTlexeme="SUR" tm="" nombre="" phon="syʁ">sur</mot>
+      <mot L3lexeme="LEQUEL" nbsyll="2" L3cat="PRO:int" genre="" freq="64.31" id="00003032" TTcat="PRO:REL" TTlexeme="LEQUEL" tm="" nombre="" phon="ləkɛl">lequel</mot>
+      <mot L3lexeme="ALLER" nbsyll="1" L3cat="VER" genre="" freq="9992.77" id="00003033" TTcat="VER:pres" TTlexeme="ALLER" tm="ind:pre:3s" nombre="" phon="va">va</mot>
+      <mot L3lexeme="SE" nbsyll="1" L3cat="PRO:per" genre="" freq="2813.77" id="00003034" TTcat="PRO:PER" TTlexeme="SE" tm="" nombre="" phon="sə">se</mot>
+      <mot L3lexeme="PLAQUER" nbsyll="2" L3cat="VER" genre="" freq="12.46" id="00003035" TTcat="VER:infi" TTlexeme="PLAQUER" tm="inf" nombre="" phon="plake">plaquer</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00003036" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="CADRE" nbsyll="1" L3cat="NOM" genre="m" freq="13.53" id="00003037" TTcat="NOM" TTlexeme="CADRE" tm="" nombre="s" phon="kadʁ">cadre</mot>
+      <mot L3lexeme="ADMINISTRATIF" nbsyll="5" L3cat="ADJ" genre="m" freq="3.27" id="00003038" TTcat="ADJ" TTlexeme="ADMINISTRATIF" tm="" nombre="s" phon="administʁatif">administratif</mot>
+      <mot L3lexeme="ROMAIN" nbsyll="2" L3cat="ADJ" genre="m" freq="11.02" id="00003039" TTcat="ADJ" TTlexeme="ROMAIN" tm="" nombre="s" phon="ʁomɛ̃">romain</mot>
+      <punct>,</punct>
+      <mot L3lexeme="PUIS" nbsyll="1" L3cat="ADV" genre="" freq="129.11" id="00003040" TTcat="ADV" TTlexeme="PUIS" tm="" nombre="" phon="pɥi">puis</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00003041" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="CADRE" nbsyll="1" L3cat="NOM" genre="m" freq="13.53" id="00003042" TTcat="NOM" TTlexeme="CADRE" tm="" nombre="s" phon="kadʁ">cadre</mot>
+      <mot L3lexeme="RELIGIEUX" nbsyll="3" L3cat="ADJ" genre="m" freq="15.52" id="00003043" TTcat="ADJ" TTlexeme="RELIGIEUX" tm="" nombre="" phon="ʁəliʒjø">religieux</mot>
+      <mot L3lexeme="CHRÉTIEN" nbsyll="2" L3cat="ADJ" genre="m" freq="12.33" id="00003044" TTcat="ADJ" TTlexeme="CHRÉTIEN" tm="" nombre="s" phon="kʁetjɛ̃">chrétien</mot>
+      <punct>,</punct>
+      <mot L3lexeme="CONFORMÉMENT" nbsyll="3" L3cat="ADV" genre="" freq="3.09" id="00003045" TTcat="ADV" TTlexeme="CONFORMÉMENT" tm="" nombre="" phon="kɔ̃fɔʁmemɑ̃">conformément</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00003046" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="UN" nbsyll="1" L3cat="ADJ:num" genre="" freq="43.17" id="00003047" TTcat="DET:ART" TTlexeme="UN" tm="" nombre="" phon="ɛ̃">un</mot>
+      <mot L3lexeme="PROCESSUS" nbsyll="3" L3cat="NOM" genre="m" freq="10.86" id="00003048" TTcat="NOM" TTlexeme="PROCESSUS" tm="" nombre="" phon="pʁosesys">processus</mot>
+      <mot L3lexeme="OBSERVER" nbsyll="3" L3cat="VER" genre="m" freq="42.66" id="00003049" TTcat="VER:pper" TTlexeme="OBSERVER" tm="par:pas" nombre="s" phon="opsɛʁve">observé</mot>
+      <mot L3lexeme="AILLEURS" nbsyll="2" L3cat="ADV" genre="" freq="128.74" id="00003050" TTcat="ADV" TTlexeme="AILLEURS" tm="" nombre="" phon="ajœʁ">ailleurs</mot>
+      <mot L3lexeme="DANS" nbsyll="1" L3cat="PRE" genre="" freq="4658.59" id="00003051" TTcat="PRP" TTlexeme="DANS" tm="" nombre="" phon="dɑ̃">dans</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00003052" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="FUTUR" nbsyll="2" L3cat="ADJ" genre="f" freq="23.20" id="00003053" TTcat="ADJ" TTlexeme="FUTUR" tm="" nombre="s" phon="fytyʁ">future</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00003054" TTcat="NAM" TTlexeme="NORMANDIE" tm="" nombre="" phon="***normandie***">normandie</mot>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00003055" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <mot L3lexeme="AU-DELÀ" nbsyll="3" L3cat="ADV" genre="" freq="21.77" id="00003056" TTcat="ADV" TTlexeme="AU-DELÀ" tm="" nombre="" phon="odəla">au-delà</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour nbmots="24" id="000004">
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00004000" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00004001" TTcat="NUM" TTlexeme="@CARD@" tm="" nombre="" phon="***867***">867</mot>
+      <punct>,</punct>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00004002" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="TRAITÉ" nbsyll="2" L3cat="NOM" genre="m" freq="8.11" id="00004003" TTcat="NOM" TTlexeme="TRAITÉ" tm="" nombre="s" phon="tʁete">traité</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00004004" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00004005" TTcat="NAM" TTlexeme="CONPIÈGNE" tm="" nombre="" phon="***conpiègne***">conpiègne</mot>
+      <mot L3lexeme="ATTRIBUER" nbsyll="3" L3cat="VER" genre="" freq="7.56" id="00004006" TTcat="VER:simp" TTlexeme="ATTRIBUER" tm="ind:pas:3s" nombre="" phon="atʁibɥa">attribua</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00004007" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00004008" TTcat="NAM" TTlexeme="COTENTIN" tm="" nombre="" phon="***cotentin***">cotentin</mot>
+      <punct>,</punct>
+      <mot L3lexeme="AINSI" nbsyll="2" L3cat="ADV" genre="" freq="207.68" id="00004009" TTcat="KON" TTlexeme="AINSI" tm="" nombre="" phon="ɛ̃si">ainsi</mot>
+      <mot L3lexeme="QUE" nbsyll="1" L3cat="PRO:int" genre="" freq="4100.90" id="00004010" TTcat="KON" TTlexeme="QUE" tm="" nombre="" phon="kə">que</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00004011" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00004012" TTcat="NOM" TTlexeme="AVRANCHIN" tm="" nombre="" phon="***avranchin***">avranchin</mot>
+      <punct>(</punct>
+      <mot L3lexeme="BIEN" nbsyll="1" L3cat="ADV" genre="" freq="4213.78" id="00004013" TTcat="ADV" TTlexeme="BIEN" tm="" nombre="" phon="bjɛ̃">bien</mot>
+      <mot L3lexeme="QUE" nbsyll="1" L3cat="PRO:int" genre="" freq="4100.90" id="00004014" TTcat="KON" TTlexeme="QUE" tm="" nombre="" phon="kə">que</mot>
+      <mot L3lexeme="ÇA" nbsyll="1" L3cat="NOM" genre="m" freq="38.19" id="00004015" TTcat="PRO:DEM" TTlexeme="CELA" tm="" nombre="" phon="sa">ça</mot>
+      <mot L3lexeme="NE" nbsyll="1" L3cat="ADV" genre="" freq="22287.83" id="00004016" TTcat="ADV" TTlexeme="NE" tm="" nombre="" phon="nə">ne</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00004017" TTcat="VER:subp" TTlexeme="ÊTRE" tm="sub:pre:3s" nombre="" phon="swa">soit</mot>
+      <mot L3lexeme="PAS" nbsyll="1" L3cat="ADV" genre="" freq="18188.15" id="00004018" TTcat="ADV" TTlexeme="PAS" tm="" nombre="" phon="pa">pas</mot>
+      <mot L3lexeme="CLAIREMENT" nbsyll="3" L3cat="ADV" genre="" freq="18.75" id="00004019" TTcat="ADV" TTlexeme="CLAIREMENT" tm="" nombre="" phon="klɛʁəmɑ̃">clairement</mot>
+      <mot L3lexeme="STIPULER" nbsyll="3" L3cat="VER" genre="m" freq="1.81" id="00004020" TTcat="VER:pper" TTlexeme="STIPULER" tm="par:pas" nombre="s" phon="stipyle">stipulé</mot>
+      <punct>)</punct>
+      <punct>,</punct>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00004021" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00004022" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00004023" TTcat="NAM" TTlexeme="BRETAGNE" tm="" nombre="" phon="***bretagne***">bretagne</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="donc" nbmots="44" id="000005">
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00005000" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00005001" TTcat="NOM" TTlexeme="AVRANCHIN" tm="" nombre="" phon="***avranchin***">avranchin</mot>
+      <punct>,</punct>
+      <mot L3lexeme="TOUT" nbsyll="1" L3cat="ADV" genre="" freq="1058.64" id="00005002" TTcat="ADV" TTlexeme="TOUT" tm="" nombre="" phon="tu">tout</mot>
+      <mot L3lexeme="COMME" nbsyll="1" L3cat="ADV" genre="" freq="577.64" id="00005003" TTcat="ADV" TTlexeme="COMME" tm="" nombre="" phon="kɔm">comme</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00005004" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00005005" TTcat="NAM" TTlexeme="COTENTIN" tm="" nombre="" phon="***cotentin***">cotentin</mot>
+      <mot L3lexeme="NE" nbsyll="1" L3cat="ADV" genre="" freq="22287.83" id="00005006" TTcat="ADV" TTlexeme="NE" tm="" nombre="" phon="nə">ne</mot>
+      <mot L3lexeme="FAIRE" nbsyll="2" L3cat="VER" genre="" freq="8813.48" id="00005007" TTcat="VER:impf" TTlexeme="FAIRE" tm="ind:imp:3p" nombre="" phon="fəzɛ">faisaient</mot>
+      <mot L3lexeme="DONC" nbsyll="0" L3cat="CON" genre="" freq="612.51" id="00005008" TTcat="ADV" TTlexeme="DONC" tm="" nombre="" phon="dɔ̃k">donc</mot>
+      <mot L3lexeme="PAS" nbsyll="1" L3cat="ADV" genre="" freq="18188.15" id="00005009" TTcat="ADV" TTlexeme="PAS" tm="" nombre="" phon="pa">pas</mot>
+      <mot L3lexeme="PARTIR" nbsyll="2" L3cat="VER" genre="f" freq="1111.97" id="00005010" TTcat="VER:pper" TTlexeme="PARTIR" tm="par:pas" nombre="s" phon="paʁti">partie</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00005011" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="TERRITOIRE" nbsyll="3" L3cat="NOM" genre="m" freq="19.09" id="00005012" TTcat="NOM" TTlexeme="TERRITOIRE" tm="" nombre="s" phon="tɛʁitwaʁ">territoire</mot>
+      <mot L3lexeme="CONCÉDER" nbsyll="2" L3cat="VER" genre="m" freq="1.79" id="00005013" TTcat="VER:pper" TTlexeme="CONCÉDER" tm="par:pas" nombre="s" phon="kɔ̃sede">concédé</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00005014" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00005015" TTcat="NAM" TTlexeme="ROLLON" tm="" nombre="" phon="***rollon***">rollon</mot>
+      <mot L3lexeme="LORS" nbsyll="1" L3cat="ADV" genre="" freq="35.79" id="00005016" TTcat="ADV" TTlexeme="LORS" tm="" nombre="" phon="lɔʁ">lors</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00005017" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00005018" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="ÉTABLISSEMENT" nbsyll="5" L3cat="NOM" genre="m" freq="7.59" id="00005019" TTcat="NOM" TTlexeme="ÉTABLISSEMENT" tm="" nombre="s" phon="etablisəmɑ̃">établissement</mot>
+      <mot L3lexeme="DES" nbsyll="1" L3cat="ART:ind" genre="" freq="6055.71" id="00005020" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="p" phon="de">des</mot>
+      <mot L3lexeme="NORMAND" nbsyll="2" L3cat="ADJ" genre="m" freq="0.79" id="00005021" TTcat="NAM" TTlexeme="NORMANDS" tm="" nombre="p" phon="nɔʁmɑ̃">normands</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00005022" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00005023" TTcat="PRO:IND" TTlexeme="@ORD@" tm="" nombre="" phon="***911***">911</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00005024" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00005025" TTcat="NOM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="SAINT-MICHEL" nbsyll="3" L3cat="NOM" genre="" freq="0.00" id="00005026" TTcat="NAM" TTlexeme="SAINT-MICHEL" tm="" nombre="s" phon="sɛ̃miʃɛl">saint-michel</mot>
+      <mot L3lexeme="RESTER" nbsyll="2" L3cat="VER" genre="" freq="1003.56" id="00005027" TTcat="VER:impf" TTlexeme="RESTER" tm="ind:imp:3s" nombre="" phon="ʁɛstɛ">restait</mot>
+      <mot L3lexeme="PROVISOIREMENT" nbsyll="5" L3cat="ADV" genre="" freq="1.52" id="00005028" TTcat="ADV" TTlexeme="PROVISOIREMENT" tm="" nombre="" phon="pʁovizwaʁəmɑ̃">provisoirement</mot>
+      <mot L3lexeme="BRETON" nbsyll="1" L3cat="ADJ" genre="m" freq="0.71" id="00005029" TTcat="ADJ" TTlexeme="BRETON" tm="" nombre="s" phon="bʁətɔ̃">breton</mot>
+      <punct>,</punct>
+      <mot L3lexeme="TOUT" nbsyll="1" L3cat="ADV" genre="" freq="1058.64" id="00005030" TTcat="ADV" TTlexeme="TOUT" tm="" nombre="" phon="tu">tout</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="ADV" genre="" freq="172.75" id="00005031" TTcat="PRO:PER" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="RESTER" nbsyll="2" L3cat="VER" genre="" freq="1003.56" id="00005032" TTcat="VER:ppre" TTlexeme="RESTER" tm="par:pre" nombre="" phon="ʁɛstɑ̃">restant</mot>
+      <mot L3lexeme="RATTACHER" nbsyll="3" L3cat="VER" genre="m" freq="2.13" id="00005033" TTcat="VER:pper" TTlexeme="RATTACHER" tm="par:pas" nombre="s" phon="ʁataʃe">rattaché</mot>
+      <mot L3lexeme="AU" nbsyll="1" L3cat="ART:def" genre="m" freq="3737.75" id="00005034" TTcat="PRP:det" TTlexeme="AU" tm="" nombre="s" phon="o">au</mot>
+      <mot L3lexeme="DIOCÈSE" nbsyll="2" L3cat="NOM" genre="m" freq="0.44" id="00005035" TTcat="NOM" TTlexeme="DIOCÈSE" tm="" nombre="s" phon="djosɛz">diocèse</mot>
+      <mot L3lexeme="D'" nbsyll="0" L3cat="PRE" genre="" freq="7224.74" id="00005036" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="d">d'</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00005037" TTcat="NAM" TTlexeme="AVRANCHES" tm="" nombre="" phon="***avranches***">avranches</mot>
+      <punct>,</punct>
+      <mot L3lexeme="LUI-MÊME" nbsyll="2" L3cat="PRO:per" genre="m" freq="46.58" id="00005038" TTcat="PRO:PER" TTlexeme="LUI-MÊME" tm="" nombre="s" phon="lɥimɛm">lui-même</mot>
+      <mot L3lexeme="DANS" nbsyll="1" L3cat="PRE" genre="" freq="4658.59" id="00005039" TTcat="PRP" TTlexeme="DANS" tm="" nombre="" phon="dɑ̃">dans</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00005040" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="ARCHIDIOCÈSE" nbsyll="4" L3cat="NOM" genre="m" freq="0.19" id="00005041" TTcat="NOM" TTlexeme="ARCHIDIOCÈSE" tm="" nombre="s" phon="aʁʃidjosɛz">archidiocèse</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00005042" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00005043" TTcat="NAM" TTlexeme="ROUEN" tm="" nombre="" phon="***rouen***">rouen</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="alors" nbmots="33" id="000006">
+      <mot L3lexeme="IL" nbsyll="1" L3cat="ADJ:num" genre="" freq="0.40" id="00006000" TTcat="PRO:PER" TTlexeme="IL" tm="" nombre="" phon="il">il</mot>
+      <mot L3lexeme="L" nbsyll="0" L3cat="NOM" genre="m" freq="5.44" id="00006001" TTcat="PRO:PER" TTlexeme="LA|LE" tm="" nombre="" phon="l">l'</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="2" L3cat="VER" genre="" freq="32236.50" id="00006002" TTcat="VER:impf" TTlexeme="ÊTRE" tm="ind:imp:3s" nombre="" phon="etɛ">était</mot>
+      <mot L3lexeme="ENCORE" nbsyll="2" L3cat="ADV" genre="" freq="1176.94" id="00006003" TTcat="ADV" TTlexeme="ENCORE" tm="" nombre="" phon="ɑ̃kɔʁ">encore</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00006004" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00006005" TTcat="NUM" TTlexeme="@CARD@" tm="" nombre="" phon="***933***">933</mot>
+      <mot L3lexeme="LORSQUE" nbsyll="2" L3cat="CON" genre="" freq="49.36" id="00006006" TTcat="KON" TTlexeme="LORSQUE" tm="" nombre="" phon="lɔʁskə">lorsque</mot>
+      <mot L3lexeme="GUILLAUME" nbsyll="2" L3cat="NOM" genre="m" freq="0.00" id="00006007" TTcat="NAM" TTlexeme="GUILLAUME" tm="" nombre="s" phon="gijom">guillaume</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00006008" TTcat="NUM" TTlexeme="1ER" tm="" nombre="" phon="***1er***">1er</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00006009" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00006010" TTcat="NAM" TTlexeme="NORMANDIE" tm="" nombre="" phon="***normandie***">normandie</mot>
+      <mot L3lexeme="RÉCUPÉRER" nbsyll="4" L3cat="VER" genre="" freq="75.92" id="00006011" TTcat="VER:simp" TTlexeme="RÉCUPÉRER" tm="ind:pas:3s" nombre="" phon="ʁekypeʁa">récupéra</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00006012" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00006013" TTcat="NOM" TTlexeme="AVRANCHIN" tm="" nombre="" phon="***avranchin***">avranchin</mot>
+      <punct>:</punct>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00006014" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="FRONTIÈRE" nbsyll="1" L3cat="NOM" genre="f" freq="34.54" id="00006015" TTcat="NOM" TTlexeme="FRONTIÈRE" tm="" nombre="s" phon="fʁɔ̃tjɛʁ">frontière</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="2" L3cat="VER" genre="" freq="32236.50" id="00006016" TTcat="VER:impf" TTlexeme="ÊTRE" tm="ind:imp:3s" nombre="" phon="etɛ">était</mot>
+      <mot L3lexeme="ALORS" nbsyll="2" L3cat="ADV" genre="" freq="1777.65" id="00006017" TTcat="ADV" TTlexeme="ALORS" tm="" nombre="" phon="alɔʁ">alors</mot>
+      <mot L3lexeme="FIXER" nbsyll="2" L3cat="VER" genre="f" freq="32.73" id="00006018" TTcat="VER:pper" TTlexeme="FIXER" tm="par:pas" nombre="s" phon="fikse">fixée</mot>
+      <mot L3lexeme="TRANSITOIREMENT" nbsyll="5" L3cat="ADV" genre="" freq="0.01" id="00006019" TTcat="ADV" TTlexeme="TRANSITOIREMENT" tm="" nombre="" phon="tʁɑ̃zitwaʁəmɑ̃">transitoirement</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00006020" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00006021" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00006022" TTcat="NAM" TTlexeme="SÉLUNE" tm="" nombre="" phon="***sélune***">sélune</mot>
+      <mot L3lexeme="FLEUVE" nbsyll="1" L3cat="NOM" genre="m" freq="21.58" id="00006023" TTcat="NOM" TTlexeme="FLEUVE" tm="" nombre="s" phon="flœv">fleuve</mot>
+      <mot L3lexeme="CÔTIER" nbsyll="2" L3cat="ADJ" genre="m" freq="1.08" id="00006024" TTcat="ADJ" TTlexeme="CÔTIER" tm="" nombre="s" phon="kotje">côtier</mot>
+      <mot L3lexeme="QUI" nbsyll="1" L3cat="PRO:int" genre="" freq="5516.52" id="00006025" TTcat="PRO:REL" TTlexeme="QUI" tm="" nombre="" phon="ki">qui</mot>
+      <mot L3lexeme="SE" nbsyll="1" L3cat="PRO:per" genre="" freq="2813.77" id="00006026" TTcat="PRO:PER" TTlexeme="SE" tm="" nombre="" phon="sə">se</mot>
+      <mot L3lexeme="JETER" nbsyll="2" L3cat="VER" genre="" freq="192.18" id="00006027" TTcat="VER:impf" TTlexeme="JETER" tm="ind:imp:3s" nombre="" phon="ʒətɛ">jetait</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00006028" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00006029" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="EST" nbsyll="1" L3cat="NOM" genre="m" freq="81.74" id="00006030" TTcat="NOM" TTlexeme="EST" tm="" nombre="s" phon="ɛst">est</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00006031" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00006032" TTcat="NAM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="et" nbmots="50" id="000007">
+      <mot L3lexeme="QUELQUES" nbsyll="1" L3cat="ADJ:ind" genre="" freq="337.35" id="00007000" TTcat="PRO:IND" TTlexeme="QUELQUE" tm="" nombre="p" phon="kɛlk">quelques</mot>
+      <mot L3lexeme="DÉCENNIE" nbsyll="3" L3cat="NOM" genre="f" freq="2.67" id="00007001" TTcat="NOM" TTlexeme="DÉCENNIE" tm="" nombre="p" phon="deseni">décennies</mot>
+      <mot L3lexeme="PLUS" nbsyll="1" L3cat="ADV" genre="" freq="4062.45" id="00007002" TTcat="ADV" TTlexeme="PLUS" tm="" nombre="" phon="ply">plus</mot>
+      <mot L3lexeme="TARD" nbsyll="1" L3cat="ADV" genre="" freq="350.38" id="00007003" TTcat="ADV" TTlexeme="TARD" tm="" nombre="" phon="taʁ">tard</mot>
+      <punct>,</punct>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00007004" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00007005" TTcat="NUM" TTlexeme="@CARD@" tm="" nombre="" phon="***1009***">1009</mot>
+      <punct>,</punct>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00007006" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="FRONTIÈRE" nbsyll="1" L3cat="NOM" genre="f" freq="34.54" id="00007007" TTcat="NOM" TTlexeme="FRONTIÈRE" tm="" nombre="s" phon="fʁɔ̃tjɛʁ">frontière</mot>
+      <mot L3lexeme="SUD" nbsyll="1" L3cat="ADJ" genre="" freq="5.53" id="00007008" TTcat="ADJ" TTlexeme="SUD" tm="" nombre="" phon="syd">sud</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00007009" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00007010" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00007011" TTcat="NOM" TTlexeme="AVRANCHIN" tm="" nombre="" phon="***avranchin***">avranchin</mot>
+      <punct>(</punct>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00007012" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <punct>,</punct>
+      <mot L3lexeme="PARTIR" nbsyll="2" L3cat="VER" genre="" freq="1111.97" id="00007013" TTcat="VER:ppre" TTlexeme="PARTIR" tm="par:pre" nombre="" phon="paʁtɑ̃">partant</mot>
+      <punct>,</punct>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00007014" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00007015" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00007016" TTcat="NAM" TTlexeme="NORMANDIE" tm="" nombre="" phon="***normandie***">normandie</mot>
+      <punct>)</punct>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00007017" TTcat="VER:simp" TTlexeme="ÊTRE" tm="ind:pas:3s" nombre="" phon="fy">fut</mot>
+      <mot L3lexeme="DÉPLACER" nbsyll="3" L3cat="VER" genre="f" freq="38.63" id="00007018" TTcat="VER:pper" TTlexeme="DÉPLACER" tm="par:pas" nombre="s" phon="deplase">déplacée</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00007019" TTcat="PRP" TTlexeme="JUSQUE" tm="" nombre="" phon="***jusqu'***">jusqu'</mot>
+      <mot L3lexeme="AU" nbsyll="1" L3cat="ART:def" genre="m" freq="3737.75" id="00007020" TTcat="PRP:det" TTlexeme="AU" tm="" nombre="s" phon="o">au</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00007021" TTcat="NAM" TTlexeme="COUESNON" tm="" nombre="" phon="***couesnon***">couesnon</mot>
+      <punct>,</punct>
+      <mot L3lexeme="FLEUVE" nbsyll="1" L3cat="NOM" genre="m" freq="21.58" id="00007022" TTcat="NOM" TTlexeme="FLEUVE" tm="" nombre="s" phon="flœv">fleuve</mot>
+      <mot L3lexeme="CÔTIER" nbsyll="2" L3cat="ADJ" genre="m" freq="1.08" id="00007023" TTcat="ADJ" TTlexeme="CÔTIER" tm="" nombre="s" phon="kotje">côtier</mot>
+      <mot L3lexeme="DONT" nbsyll="0" L3cat="PRO:int" genre="" freq="223.41" id="00007024" TTcat="PRO:REL" TTlexeme="DONT" tm="" nombre="" phon="dɔ̃">dont</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00007025" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="EMBOUCHURE" nbsyll="3" L3cat="NOM" genre="f" freq="0.69" id="00007026" TTcat="NOM" TTlexeme="EMBOUCHURE" tm="" nombre="s" phon="ɑ̃buʃyʁ">embouchure</mot>
+      <mot L3lexeme="MARQUER" nbsyll="2" L3cat="VER" genre="" freq="43.78" id="00007027" TTcat="VER:simp" TTlexeme="MARQUER" tm="ind:pas:3s" nombre="" phon="maʁka">marqua</mot>
+      <mot L3lexeme="PENDANT" nbsyll="2" L3cat="PRE" genre="" freq="312.62" id="00007028" TTcat="PRP" TTlexeme="PENDANT" tm="" nombre="" phon="pɑ̃dɑ̃">pendant</mot>
+      <mot L3lexeme="DES" nbsyll="1" L3cat="ART:ind" genre="" freq="6055.71" id="00007029" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="p" phon="de">des</mot>
+      <mot L3lexeme="SIÈCLE" nbsyll="1" L3cat="NOM" genre="m" freq="45.77" id="00007030" TTcat="NOM" TTlexeme="SIÈCLE" tm="" nombre="p" phon="sjɛkl">siècles</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00007031" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="LIMITE" nbsyll="2" L3cat="NOM" genre="f" freq="32.77" id="00007032" TTcat="NOM" TTlexeme="LIMITE" tm="" nombre="s" phon="limit">limite</mot>
+      <mot L3lexeme="OFFICIEL" nbsyll="3" L3cat="ADJ" genre="f" freq="21.36" id="00007033" TTcat="ADJ" TTlexeme="OFFICIEL" tm="" nombre="s" phon="ofisjɛl">officielle</mot>
+      <mot L3lexeme="ENTRE" nbsyll="1" L3cat="PRE" genre="" freq="372.72" id="00007034" TTcat="PRP" TTlexeme="ENTRE" tm="" nombre="" phon="ɑ̃tʁ">entre</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00007035" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00007036" TTcat="NAM" TTlexeme="NORMANDIE" tm="" nombre="" phon="***normandie***">normandie</mot>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00007037" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00007038" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00007039" TTcat="NAM" TTlexeme="BRETAGNE" tm="" nombre="" phon="***bretagne***">bretagne</mot>
+      <punct>(</punct>
+      <mot L3lexeme="BIEN" nbsyll="1" L3cat="ADV" genre="" freq="4213.78" id="00007040" TTcat="ADV" TTlexeme="BIEN" tm="" nombre="" phon="bjɛ̃">bien</mot>
+      <mot L3lexeme="AVANT" nbsyll="2" L3cat="PRE" genre="" freq="529.51" id="00007041" TTcat="PRP" TTlexeme="AVANT" tm="" nombre="" phon="avɑ̃">avant</mot>
+      <mot L3lexeme="D'" nbsyll="0" L3cat="PRE" genre="" freq="7224.74" id="00007042" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="d">d'</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00007043" TTcat="VER:infi" TTlexeme="ÊTRE" tm="inf" nombre="" phon="ɛtʁ">être</mot>
+      <mot L3lexeme="REMPLACER" nbsyll="3" L3cat="VER" genre="f" freq="52.84" id="00007044" TTcat="VER:pper" TTlexeme="REMPLACER" tm="par:pas" nombre="s" phon="ʁɑ̃plase">remplacée</mot>
+      <mot L3lexeme="PAR" nbsyll="1" L3cat="PRE" genre="" freq="1753.02" id="00007045" TTcat="PRP" TTlexeme="PAR" tm="" nombre="" phon="paʁ">par</mot>
+      <mot L3lexeme="UNE" nbsyll="1" L3cat="ADJ:num" genre="" freq="14.54" id="00007046" TTcat="DET:ART" TTlexeme="UN" tm="" nombre="" phon="yn">une</mot>
+      <mot L3lexeme="LIMITE" nbsyll="2" L3cat="NOM" genre="f" freq="32.77" id="00007047" TTcat="NOM" TTlexeme="LIMITE" tm="" nombre="s" phon="limit">limite</mot>
+      <mot L3lexeme="TOPOGRAPHIQUE" nbsyll="4" L3cat="ADJ" genre="" freq="0.23" id="00007048" TTcat="ADJ" TTlexeme="TOPOGRAPHIQUE" tm="" nombre="s" phon="topogʁafik">topographique</mot>
+      <mot L3lexeme="FIXE" nbsyll="1" L3cat="ADJ" genre="" freq="11.12" id="00007049" TTcat="ADJ" TTlexeme="FIXE" tm="" nombre="s" phon="fiks">fixe</mot>
+      <punct>)</punct>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="et" nbmots="10" id="000008">
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00008000" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="HISTOIRE" nbsyll="2" L3cat="NOM" genre="f" freq="359.92" id="00008001" TTcat="NOM" TTlexeme="HISTOIRE" tm="" nombre="s" phon="istwaʁ">histoire</mot>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00008002" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00008003" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="LÉGENDE" nbsyll="2" L3cat="NOM" genre="f" freq="20.41" id="00008004" TTcat="NOM" TTlexeme="LÉGENDE" tm="" nombre="s" phon="leʒɑ̃d">légende</mot>
+      <mot L3lexeme="SE" nbsyll="1" L3cat="PRO:per" genre="" freq="2813.77" id="00008005" TTcat="PRO:PER" TTlexeme="SE" tm="" nombre="" phon="sə">se</mot>
+      <mot L3lexeme="BROUILLER" nbsyll="1" L3cat="VER" genre="" freq="6.12" id="00008006" TTcat="VER:pres" TTlexeme="BROUILLER" tm="ind:pre:3p" nombre="" phon="bʁuj">brouillent</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00008007" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="CETTE" nbsyll="1" L3cat="ADJ:dem" genre="f" freq="1902.27" id="00008008" TTcat="PRO:DEM" TTlexeme="CE" tm="" nombre="s" phon="sɛt">cette</mot>
+      <mot L3lexeme="DATE" nbsyll="1" L3cat="NOM" genre="f" freq="31.41" id="00008009" TTcat="NOM" TTlexeme="DATE" tm="" nombre="s" phon="dat">date</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="et,mais" nbmots="78" id="000009">
+      <mot L3lexeme="LES" nbsyll="1" L3cat="ART:def" genre="" freq="8720.38" id="00009000" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="p" phon="le">les</mot>
+      <mot L3lexeme="TEXTE" nbsyll="1" L3cat="NOM" genre="m" freq="20.42" id="00009001" TTcat="NOM" TTlexeme="TEXTE" tm="" nombre="p" phon="tɛkst">textes</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00009002" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00009003" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="ÉPOQUE" nbsyll="2" L3cat="NOM" genre="f" freq="68.44" id="00009004" TTcat="NOM" TTlexeme="ÉPOQUE" tm="" nombre="s" phon="epɔk">époque</mot>
+      <mot L3lexeme="NE" nbsyll="1" L3cat="ADV" genre="" freq="22287.83" id="00009005" TTcat="ADV" TTlexeme="NE" tm="" nombre="" phon="nə">ne</mot>
+      <mot L3lexeme="PRÉCISER" nbsyll="2" L3cat="VER" genre="" freq="9.29" id="00009006" TTcat="VER:pres" TTlexeme="PRÉCISER" tm="ind:pre:3p" nombre="" phon="pʁesiz">précisent</mot>
+      <mot L3lexeme="PAS" nbsyll="1" L3cat="ADV" genre="" freq="18188.15" id="00009007" TTcat="ADV" TTlexeme="PAS" tm="" nombre="" phon="pa">pas</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00009008" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="SORT" nbsyll="1" L3cat="NOM" genre="m" freq="44.80" id="00009009" TTcat="NOM" TTlexeme="SORT" tm="" nombre="s" phon="sɔʁ">sort</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00009010" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00009011" TTcat="NOM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="SAINT-MICHEL" nbsyll="3" L3cat="NOM" genre="" freq="0.00" id="00009012" TTcat="NAM" TTlexeme="SAINT-MICHEL" tm="" nombre="s" phon="sɛ̃miʃɛl">saint-michel</mot>
+      <punct>(</punct>
+      <mot L3lexeme="NI" nbsyll="1" L3cat="CON" genre="" freq="377.64" id="00009013" TTcat="KON" TTlexeme="NI" tm="" nombre="" phon="ni">ni</mot>
+      <mot L3lexeme="SA" nbsyll="1" L3cat="ADJ:pos" genre="" freq="1276.29" id="00009014" TTcat="DET:POS" TTlexeme="SON" tm="" nombre="" phon="sa">sa</mot>
+      <mot L3lexeme="LOCALISATION" nbsyll="4" L3cat="NOM" genre="f" freq="2.06" id="00009015" TTcat="NOM" TTlexeme="LOCALISATION" tm="" nombre="s" phon="lokalizasjɔ̃">localisation</mot>
+      <mot L3lexeme="PAR" nbsyll="1" L3cat="PRE" genre="" freq="1753.02" id="00009016" TTcat="PRP" TTlexeme="PAR" tm="" nombre="" phon="paʁ">par</mot>
+      <mot L3lexeme="RAPPORT" nbsyll="2" L3cat="NOM" genre="m" freq="140.08" id="00009017" TTcat="NOM" TTlexeme="RAPPORT" tm="" nombre="s" phon="ʁapɔʁ">rapport</mot>
+      <mot L3lexeme="AU" nbsyll="1" L3cat="ART:def" genre="m" freq="3737.75" id="00009018" TTcat="PRP:det" TTlexeme="AU" tm="" nombre="s" phon="o">au</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00009019" TTcat="NAM" TTlexeme="COUESNON" tm="" nombre="" phon="***couesnon***">couesnon</mot>
+      <punct>)</punct>
+      <punct>,</punct>
+      <mot L3lexeme="MAIS" nbsyll="1" L3cat="CON" genre="" freq="5179.05" id="00009020" TTcat="KON" TTlexeme="MAIS" tm="" nombre="" phon="mɛ">mais</mot>
+      <mot L3lexeme="SON" nbsyll="0" L3cat="ADJ:pos" genre="" freq="1740.43" id="00009021" TTcat="DET:POS" TTlexeme="SON" tm="" nombre="" phon="sɔ̃">son</mot>
+      <mot L3lexeme="RATTACHEMENT" nbsyll="4" L3cat="NOM" genre="m" freq="0.13" id="00009022" TTcat="NOM" TTlexeme="RATTACHEMENT" tm="" nombre="s" phon="ʁataʃəmɑ̃">rattachement</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00009023" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00009024" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00009025" TTcat="NAM" TTlexeme="NORMANDIE" tm="" nombre="" phon="***normandie***">normandie</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00009026" TTcat="VER:pres" TTlexeme="ÊTRE" tm="ind:pre:3s" nombre="" phon="e">est</mot>
+      <mot L3lexeme="ATTESTER" nbsyll="3" L3cat="VER" genre="m" freq="2.67" id="00009027" TTcat="VER:pper" TTlexeme="ATTESTER" tm="par:pas" nombre="s" phon="atɛste">attesté</mot>
+      <mot L3lexeme="QUELQUES" nbsyll="1" L3cat="ADJ:ind" genre="" freq="337.35" id="00009028" TTcat="PRO:IND" TTlexeme="QUELQUE" tm="" nombre="p" phon="kɛlk">quelques</mot>
+      <mot L3lexeme="DÉCENNIE" nbsyll="3" L3cat="NOM" genre="f" freq="2.67" id="00009029" TTcat="NOM" TTlexeme="DÉCENNIE" tm="" nombre="p" phon="deseni">décennies</mot>
+      <mot L3lexeme="PLUS" nbsyll="1" L3cat="ADV" genre="" freq="4062.45" id="00009030" TTcat="ADV" TTlexeme="PLUS" tm="" nombre="" phon="ply">plus</mot>
+      <mot L3lexeme="TARD" nbsyll="1" L3cat="ADV" genre="" freq="350.38" id="00009031" TTcat="ADV" TTlexeme="TARD" tm="" nombre="" phon="taʁ">tard</mot>
+      <punct>,</punct>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00009032" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <mot L3lexeme="IL" nbsyll="1" L3cat="ADJ:num" genre="" freq="0.40" id="00009033" TTcat="PRO:PER" TTlexeme="IL" tm="" nombre="" phon="il">il</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00009034" TTcat="VER:pres" TTlexeme="ÊTRE" tm="ind:pre:3s" nombre="" phon="e">est</mot>
+      <mot L3lexeme="DÉJÀ" nbsyll="2" L3cat="ADV" genre="" freq="681.89" id="00009035" TTcat="ADV" TTlexeme="DÉJÀ" tm="" nombre="" phon="deʒa">déjà</mot>
+      <mot L3lexeme="EFFECTIF" nbsyll="3" L3cat="ADJ" genre="m" freq="0.57" id="00009036" TTcat="ADJ" TTlexeme="EFFECTIF" tm="" nombre="s" phon="efɛktif">effectif</mot>
+      <mot L3lexeme="LORSQUE" nbsyll="2" L3cat="CON" genre="" freq="49.36" id="00009037" TTcat="KON" TTlexeme="LORSQUE" tm="" nombre="" phon="lɔʁskə">lorsque</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00009038" TTcat="NAM" TTlexeme="GUY" tm="" nombre="" phon="***guy***">guy</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00009039" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00009040" TTcat="NAM" TTlexeme="THOUARDS" tm="" nombre="" phon="***thouards***">thouards</mot>
+      <mot L3lexeme="INCENDIER" nbsyll="3" L3cat="VER" genre="" freq="4.37" id="00009041" TTcat="VER:pres" TTlexeme="INCENDIER" tm="ind:pre:3s" nombre="" phon="ɛ̃sɑ̃di">incendie</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00009042" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00009043" TTcat="NAM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00009044" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="AVRIL" nbsyll="2" L3cat="NOM" genre="m" freq="11.23" id="00009045" TTcat="NOM" TTlexeme="AVRIL" tm="" nombre="" phon="avʁil">avril</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00009046" TTcat="NUM" TTlexeme="@CARD@" tm="" nombre="" phon="***1204***">1204</mot>
+      <mot L3lexeme="OR" nbsyll="1" L3cat="NOM" genre="m" freq="110.28" id="00009047" TTcat="NOM" TTlexeme="OR" tm="" nombre="s" phon="ɔʁ">or</mot>
+      <punct>,</punct>
+      <mot L3lexeme="UNE" nbsyll="1" L3cat="ADJ:num" genre="" freq="14.54" id="00009048" TTcat="DET:ART" TTlexeme="UN" tm="" nombre="" phon="yn">une</mot>
+      <mot L3lexeme="LÉGENDE" nbsyll="2" L3cat="NOM" genre="f" freq="20.41" id="00009049" TTcat="NOM" TTlexeme="LÉGENDE" tm="" nombre="s" phon="leʒɑ̃d">légende</mot>
+      <mot L3lexeme="AFFIRMER" nbsyll="2" L3cat="VER" genre="" freq="15.61" id="00009050" TTcat="VER:pres" TTlexeme="AFFIRMER" tm="ind:pre:3s" nombre="" phon="afiʁm">affirme</mot>
+      <mot L3lexeme="QUE" nbsyll="1" L3cat="PRO:int" genre="" freq="4100.90" id="00009051" TTcat="KON" TTlexeme="QUE" tm="" nombre="" phon="kə">que</mot>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00009052" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00009053" TTcat="NAM" TTlexeme="COUESNON" tm="" nombre="" phon="***couesnon***">couesnon</mot>
+      <punct>,</punct>
+      <mot L3lexeme="LORS" nbsyll="1" L3cat="ADV" genre="" freq="35.79" id="00009054" TTcat="ADV" TTlexeme="LORS" tm="" nombre="" phon="lɔʁ">lors</mot>
+      <mot L3lexeme="D'" nbsyll="0" L3cat="PRE" genre="" freq="7224.74" id="00009055" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="d">d'</mot>
+      <mot L3lexeme="UNE" nbsyll="1" L3cat="ADJ:num" genre="" freq="14.54" id="00009056" TTcat="NUM" TTlexeme="UN" tm="" nombre="" phon="yn">une</mot>
+      <mot L3lexeme="DE" nbsyll="1" L3cat="PRE" genre="" freq="25220.86" id="00009057" TTcat="PRP" TTlexeme="DE" tm="" nombre="" phon="də">de</mot>
+      <mot L3lexeme="SES" nbsyll="1" L3cat="ADJ:pos" genre="" freq="757.68" id="00009058" TTcat="DET:POS" TTlexeme="SON" tm="" nombre="" phon="se">ses</mot>
+      <mot L3lexeme="FRÉQUENT" nbsyll="2" L3cat="ADJ" genre="f" freq="4.14" id="00009059" TTcat="ADJ" TTlexeme="FRÉQUENT" tm="" nombre="p" phon="fʁekɑ̃t">fréquentes</mot>
+      <mot L3lexeme="DIVAGATION" nbsyll="3" L3cat="NOM" genre="f" freq="0.53" id="00009060" TTcat="NOM" TTlexeme="DIVAGATION" tm="" nombre="p" phon="divagasjɔ̃">divagations</mot>
+      <punct>,</punct>
+      <mot L3lexeme="SE" nbsyll="1" L3cat="PRO:per" genre="" freq="2813.77" id="00009061" TTcat="PRO:PER" TTlexeme="SE" tm="" nombre="" phon="sə">se</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="2" L3cat="VER" genre="" freq="32236.50" id="00009062" TTcat="VER:cond" TTlexeme="ÊTRE" tm="cnd:pre:3s" nombre="" phon="səʁɛ">serait</mot>
+      <mot L3lexeme="METTRE" nbsyll="1" L3cat="VER" genre="m" freq="1004.83" id="00009063" TTcat="VER:pper" TTlexeme="METTRE" tm="par:pas" nombre="" phon="mi">mis</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00009064" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="DÉBOUCHER" nbsyll="3" L3cat="VER" genre="" freq="4.21" id="00009065" TTcat="VER:infi" TTlexeme="DÉBOUCHER" tm="inf" nombre="" phon="debuʃe">déboucher</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00009066" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00009067" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="OUEST" nbsyll="1" L3cat="NOM" genre="m" freq="27.79" id="00009068" TTcat="NOM" TTlexeme="OUEST" tm="" nombre="" phon="wɛst">ouest</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00009069" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00009070" TTcat="NAM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <punct>,</punct>
+      <mot L3lexeme="FAIRE" nbsyll="2" L3cat="VER" genre="" freq="8813.48" id="00009071" TTcat="VER:ppre" TTlexeme="FAIRE" tm="par:pre" nombre="" phon="fəzɑ̃">faisant</mot>
+      <mot L3lexeme="AINSI" nbsyll="2" L3cat="ADV" genre="" freq="207.68" id="00009072" TTcat="ADV" TTlexeme="AINSI" tm="" nombre="" phon="ɛ̃si">ainsi</mot>
+      <mot L3lexeme="PASSER" nbsyll="2" L3cat="VER" genre="" freq="1495.49" id="00009073" TTcat="VER:infi" TTlexeme="PASSER" tm="inf" nombre="" phon="pase">passer</mot>
+      <mot L3lexeme="CE" nbsyll="1" L3cat="ADJ:dem" genre="m" freq="2739.25" id="00009074" TTcat="PRO:DEM" TTlexeme="CE" tm="" nombre="s" phon="sø">ce</mot>
+      <mot L3lexeme="DERNIER" nbsyll="2" L3cat="ADJ" genre="m" freq="431.08" id="00009075" TTcat="ADJ" TTlexeme="DERNIER" tm="" nombre="s" phon="dɛʁnje">dernier</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00009076" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00009077" TTcat="NAM" TTlexeme="NORMANDIE" tm="" nombre="" phon="***normandie***">normandie</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour connecteurs="et" nbmots="28" id="000010">
+      <mot L3lexeme="SI" nbsyll="1" L3cat="CON" genre="" freq="1374.43" id="00010000" TTcat="KON" TTlexeme="SI" tm="" nombre="" phon="si">si</mot>
+      <mot L3lexeme="CETTE" nbsyll="1" L3cat="ADJ:dem" genre="f" freq="1902.27" id="00010001" TTcat="PRO:DEM" TTlexeme="CE" tm="" nombre="s" phon="sɛt">cette</mot>
+      <mot L3lexeme="LÉGENDE" nbsyll="2" L3cat="NOM" genre="f" freq="20.41" id="00010002" TTcat="NOM" TTlexeme="LÉGENDE" tm="" nombre="s" phon="leʒɑ̃d">légende</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00010003" TTcat="VER:pres" TTlexeme="ÊTRE" tm="ind:pre:3s" nombre="" phon="e">est</mot>
+      <mot L3lexeme="EXACT" nbsyll="2" L3cat="ADJ" genre="f" freq="86.80" id="00010004" TTcat="ADJ" TTlexeme="EXACT" tm="" nombre="s" phon="ɛgzakt">exacte</mot>
+      <punct>,</punct>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00010005" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00010006" TTcat="NAM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="AVOIR" nbsyll="2" L3cat="VER" genre="" freq="13572.40" id="00010007" TTcat="VER:cond" TTlexeme="AVOIR" tm="cnd:pre:3s" nombre="" phon="oʁɛ">aurait</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="2" L3cat="VER" genre="m" freq="32236.50" id="00010008" TTcat="VER:pper" TTlexeme="ÊTRE" tm="par:pas" nombre="s" phon="ete">été</mot>
+      <mot L3lexeme="SITUER" nbsyll="2" L3cat="VER" genre="m" freq="10.44" id="00010009" TTcat="VER:pper" TTlexeme="SITUER" tm="par:pas" nombre="s" phon="sitɥe">situé</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00010010" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00010011" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="OUEST" nbsyll="1" L3cat="NOM" genre="m" freq="27.79" id="00010012" TTcat="NOM" TTlexeme="OUEST" tm="" nombre="" phon="wɛst">ouest</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00010013" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00010014" TTcat="NAM" TTlexeme="COUESNON" tm="" nombre="" phon="***couesnon***">couesnon</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00010015" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00010016" TTcat="NUM" TTlexeme="@CARD@" tm="" nombre="" phon="***1009***">1009</mot>
+      <mot L3lexeme="ET" nbsyll="1" L3cat="CON" genre="" freq="12909.08" id="00010017" TTcat="KON" TTlexeme="ET" tm="" nombre="" phon="e">et</mot>
+      <mot L3lexeme="LA" nbsyll="1" L3cat="ART:def" genre="f" freq="14946.48" id="00010018" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="la">la</mot>
+      <mot L3lexeme="DIVAGATION" nbsyll="3" L3cat="NOM" genre="f" freq="0.53" id="00010019" TTcat="NOM" TTlexeme="DIVAGATION" tm="" nombre="s" phon="divagasjɔ̃">divagation</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00010020" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00010021" TTcat="NAM" TTlexeme="COUESNON" tm="" nombre="" phon="***couesnon***">couesnon</mot>
+      <mot L3lexeme="SE" nbsyll="1" L3cat="PRO:per" genre="" freq="2813.77" id="00010022" TTcat="PRO:PER" TTlexeme="SE" tm="" nombre="" phon="sə">se</mot>
+      <mot L3lexeme="SITUER" nbsyll="3" L3cat="VER" genre="" freq="10.44" id="00010023" TTcat="VER:cond" TTlexeme="SITUER" tm="cnd:pre:3s" nombre="" phon="sityʁɛ">situerait</mot>
+      <mot L3lexeme="QUELQUES" nbsyll="1" L3cat="ADJ:ind" genre="" freq="337.35" id="00010024" TTcat="PRO:IND" TTlexeme="QUELQUE" tm="" nombre="p" phon="kɛlk">quelques</mot>
+      <mot L3lexeme="DÉCENNIE" nbsyll="3" L3cat="NOM" genre="f" freq="2.67" id="00010025" TTcat="NOM" TTlexeme="DÉCENNIE" tm="" nombre="p" phon="deseni">décennies</mot>
+      <mot L3lexeme="PLUS" nbsyll="1" L3cat="ADV" genre="" freq="4062.45" id="00010026" TTcat="ADV" TTlexeme="PLUS" tm="" nombre="" phon="ply">plus</mot>
+      <mot L3lexeme="TARD" nbsyll="1" L3cat="ADV" genre="" freq="350.38" id="00010027" TTcat="ADV" TTlexeme="TARD" tm="" nombre="" phon="taʁ">tard</mot>
+      <punct>.</punct>
+    </tour>
+  </Turn>
+  <Turn>
+    <tour nbmots="17" id="000011">
+      <mot L3lexeme="SI" nbsyll="1" L3cat="CON" genre="" freq="1374.43" id="00011000" TTcat="KON" TTlexeme="SI" tm="" nombre="" phon="si">si</mot>
+      <mot L3lexeme="ELLE" nbsyll="1" L3cat="PRO:per" genre="f" freq="4520.53" id="00011001" TTcat="PRO:PER" TTlexeme="ELLE" tm="" nombre="s" phon="ɛl">elle</mot>
+      <mot L3lexeme="ÊTRE" nbsyll="1" L3cat="VER" genre="" freq="32236.50" id="00011002" TTcat="VER:pres" TTlexeme="ÊTRE" tm="ind:pre:3s" nombre="" phon="e">est</mot>
+      <mot L3lexeme="FAUX" nbsyll="1" L3cat="ADJ" genre="f" freq="122.23" id="00011003" TTcat="ADJ" TTlexeme="FAUX" tm="" nombre="s" phon="fos">fausse</mot>
+      <punct>,</punct>
+      <mot L3lexeme="LE" nbsyll="1" L3cat="ART:def" genre="m" freq="13652.76" id="00011004" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="lə">le</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00011005" TTcat="NAM" TTlexeme="COUESNON" tm="" nombre="" phon="***couesnon***">couesnon</mot>
+      <mot L3lexeme="SE" nbsyll="1" L3cat="PRO:per" genre="" freq="2813.77" id="00011006" TTcat="PRO:PER" TTlexeme="SE" tm="" nombre="" phon="sə">se</mot>
+      <mot L3lexeme="JETER" nbsyll="2" L3cat="VER" genre="" freq="192.18" id="00011007" TTcat="VER:impf" TTlexeme="JETER" tm="ind:imp:3s" nombre="" phon="ʒətɛ">jetait</mot>
+      <mot L3lexeme="DÉJÀ" nbsyll="2" L3cat="ADV" genre="" freq="681.89" id="00011008" TTcat="ADV" TTlexeme="DÉJÀ" tm="" nombre="" phon="deʒa">déjà</mot>
+      <mot L3lexeme="À" nbsyll="1" L3cat="PRE" genre="" freq="12190.40" id="00011009" TTcat="PRP" TTlexeme="À" tm="" nombre="" phon="a">à</mot>
+      <mot L3lexeme="L'" nbsyll="0" L3cat="ART:def" genre="m" freq="8129.41" id="00011010" TTcat="DET:ART" TTlexeme="LE" tm="" nombre="s" phon="l">l'</mot>
+      <mot L3lexeme="OUEST" nbsyll="1" L3cat="NOM" genre="m" freq="27.79" id="00011011" TTcat="NOM" TTlexeme="OUEST" tm="" nombre="" phon="wɛst">ouest</mot>
+      <mot L3lexeme="DU" nbsyll="1" L3cat="ART:def" genre="m" freq="4394.70" id="00011012" TTcat="PRP:det" TTlexeme="DU" tm="" nombre="s" phon="dy">du</mot>
+      <mot L3lexeme="MONT" nbsyll="0" L3cat="NOM" genre="m" freq="12.63" id="00011013" TTcat="NOM" TTlexeme="MONT" tm="" nombre="s" phon="mɔ̃">mont</mot>
+      <mot L3lexeme="SAINT-MICHEL" nbsyll="3" L3cat="NOM" genre="" freq="0.00" id="00011014" TTcat="NAM" TTlexeme="SAINT-MICHEL" tm="" nombre="s" phon="sɛ̃miʃɛl">saint-michel</mot>
+      <mot L3lexeme="EN" nbsyll="1" L3cat="PRE" genre="" freq="5689.68" id="00011015" TTcat="PRP" TTlexeme="EN" tm="" nombre="" phon="ɑ̃">en</mot>
+      <mot L3lexeme="???" nbsyll="" L3cat="???" genre="" freq="" id="00011016" TTcat="NAM" TTlexeme="@ORD@" tm="" nombre="" phon="***1009***">1009</mot>
+    </tour>
+  </Turn>
+</Document>
