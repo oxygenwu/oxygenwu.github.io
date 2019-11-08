@@ -43,7 +43,7 @@ width:100%;
 	#content
 	{background-color:transparent;
 	height:90%;
-	width:70%;
+	width:90%;
 	float:left;
 	z-index:-99;
 
@@ -65,10 +65,7 @@ width:100%;
 	overflow:hidden;
 	}
 
-	iframe{
-		background-color: white;
-	}
-
+	
 
 	#header img
 	{height:100%;
@@ -97,14 +94,17 @@ text-align:center;
 
 
 
+/*iframe{
+		background-color: white;
+	}*/
 
 
 
-	#box{
+	iframe{
                         position: relative;
                         margin: 0 auto;
                         padding: 1em;
-                        max-width: 37em;
+                        max-width: 30em;
                         max-height: 40em;
                         background: hsla(0,0%,100%,.65) border-box;
                         overflow:scroll;
@@ -112,13 +112,13 @@ text-align:center;
                         box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
                                     0 .5em 1em rgba(0, 0, 0, 0.6);
                         text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
-                        margin-top:280px;
-                        margin-left:70px;
+                        margin-top:60px;
+                        margin-left:10px;
                     }
 
 
 
-	  #box::before{
+	  iframe::before{
                         content: '';
                         position: absolute;
                         top: 0; right: 0; bottom: 0; left: 0;
@@ -156,7 +156,7 @@ text-align:center;
 
 .dropdown-content a {
     color: white;
-    padding: 14px 18px;
+    padding: 14px 12px;
     text-decoration: none;
     display: block;
 }
@@ -180,12 +180,12 @@ background-color: transparent;
 .nav ul {
 margin: 0;padding: 0;
 list-style-type: none; 
-line-height: 3em;
+line-height: 2em;
 }
 
 .nav a {
 display: block; 
-width: 50%; 
+width: 100%; 
 text-align: center;
 text-decoration: none;
 background-color: #111;
