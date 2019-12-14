@@ -1,0 +1,182 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Givran Newman algorithm</title>
+
+    
+
+  		<meta name="apple-mobile-web-app-capable" content="yes">
+  		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  		<!-- Reveal base style -->
+  		<link rel="stylesheet" href="https://yanshuo.io/assets/player/css/reveal.min.css">
+
+  		<!-- Yanshuo.io seed style -->
+  		<link rel="stylesheet" href="https://yanshuo.io/assets/player/atcss/at-block.min.css">
+  		<link rel="stylesheet" href="https://yanshuo.io/assets/player/atcss/at-hljs-theme-bundler.min.css">
+  		<link rel="stylesheet" href="https://yanshuo.io/assets/player/atcss/at-reveal-default-theme.min.css">
+
+  		<!-- Source Sans Web Fonts -->
+  		<link rel="stylesheet" href="https://yanshuo.io/assets/player/lib/font/source-sans-pro/source-sans-pro.css">
+
+      <!-- Printing and PDF exports -->
+      <script>
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://yanshuo.io/assets/player//css/print/pdf.css' : '';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+      </script>
+
+      <!--[if lt IE 9]>
+  		<script src="lib/js/html5shiv.js"></script>
+  		<![endif]-->
+
+  		<!-- style for "critical path" -->
+  		<style>
+  	  </style>
+  </head>
+  <body>
+    <!-- TODO: a lightweighted loading -->
+
+    <!-- main slides -->
+    <div id="YS" class="at-code-lh-12" style="width:100%;height:100%;" data-reveal-theme="qcon" data-highlight-theme="zenburn" data-ys-title="conference" data-ys-user="wushuang" data-ys-transition="convex" data-ys-backgroundTransition="convex" data-ys-transitionSpeed="slow" data-ys-fv="2"><style>
+
+  /*********************************************
+   * THEME: qcon
+   *********************************************/
+
+  /*********************************************
+   * Yanshuo Inject
+   *********************************************/
+
+   .hljs{
+     
+   }
+
+  /*********************************************
+   * GLOBAL STYLES
+   *********************************************/
+
+  body, .reveal, .reveal-preview {
+  	background-color: #fff;
+  }
+
+  .reveal, .reveal-preview  {
+    
+    color: #333;
+  }
+
+  ::selection {
+  	background: rgb(87, 167, 224);
+  }
+
+  /*********************************************
+   * HEADERS
+   *********************************************/
+
+  .reveal h1, .reveal-preview h1,
+  .reveal h2, .reveal-preview h2,
+  .reveal h3, .reveal-preview h3,
+  .reveal h4, .reveal-preview h4,
+  .reveal h5, .reveal-preview h5,
+  .reveal h6, .reveal-preview h6 {
+    
+  	color: #246baf;
+  }
+
+
+  /*********************************************
+   * LINKS
+   *********************************************/
+
+  .reveal a, .reveal-preview a {
+  	color: #246baf;
+    text-decoration: underline;
+  }
+  	.reveal a:hover, .reveal-preview a:hover {
+  		color: #1d8045;
+  	}
+
+
+  /*********************************************
+   * NAVIGATION CONTROLS
+   *********************************************/
+
+  .reveal .controls .navigate-left,
+  .reveal .controls .navigate-left.enabled {
+  	border-right-color: #246baf;
+  }
+
+  .reveal .controls .navigate-right,
+  .reveal .controls .navigate-right.enabled {
+  	border-left-color: #246baf;
+  }
+
+  .reveal .controls .navigate-up,
+  .reveal .controls .navigate-up.enabled {
+  	border-bottom-color: #246baf;
+  }
+
+  .reveal .controls .navigate-down,
+  .reveal .controls .navigate-down.enabled {
+  	border-top-color: #246baf;
+  }
+
+  .reveal .controls .navigate-left.enabled:hover {
+  	border-right-color: #1d8045;
+  }
+
+  .reveal .controls .navigate-right.enabled:hover {
+  	border-left-color: #1d8045;
+  }
+
+  .reveal .controls .navigate-up.enabled:hover {
+  	border-bottom-color: #1d8045;
+  }
+
+  .reveal .controls .navigate-down.enabled:hover {
+  	border-top-color: #1d8045;
+  }
+
+  /*********************************************
+   * PROGRESS BAR
+   *********************************************/
+
+  .reveal .progress span {
+  	background: #246baf;
+
+</style><div class="reveal"><div class="slides"><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:-98.73106407383295px;top:163.94355526619836px;width:1124.033029117775px;height:auto000;" class="at-block at-block--pure"><article data-block-id="1574098867754" class="at-block-content"><h1>Givran Newman</h1><h1>Algorithm</h1></article></div><div style="left:87.60930030421544px;top:542.4467622772708px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574165292637" class="at-block-content"><h2>@Shuang Wu</h2></article></div><div style="left:79px;top:608.0052151238592px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574165463651" class="at-block-content"><p><span style="color:#999999"><strong>M2 SAAD</strong></span></p></article></div><div style="width:465.69105691056905px;height:310.46070460704607px;left:-230.0385109114249px;top:279.6648124375981px;" class="at-block at-block--pure"><article data-block-id="1576362029937" class="at-block-content"><img src=https://i.loli.net/2019/12/15/1qKUr6BjptxJaZ8.gif /></article></div><div style="width:473.9067180145486px;height:315.9378120096991px;left:684.6384253316218px;top:285.59834545713875px;" class="at-block at-block--pure"><article data-block-id="1576362606438" class="at-block-content"><img src=https://i.loli.net/2019/12/15/o2abtuSCDNRzUVx.gif /></article></div><div style="width:269.88446726572533px;height:180.0897279252291px;left:-84.89516474112109px;top:-4.102100115679491px;" class="at-block at-block--pure"><article data-block-id="1576363103320" class="at-block-content"><img src=11.gif /></article></div><div style="width:239.76037655113396px;height:159.98838843078448px;left:769.5335900727428px;top:-1.8013596798569775px;" class="at-block at-block--pure"><article data-block-id="1576363115180" class="at-block-content"><img src=2.gif /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:-90.51540296985348px;top:278.96281072191084px;width:1124.033029117775px;height:auto000;" class="at-block at-block--pure"><article data-block-id="1576362246202" class="at-block-content"><h2><span style="color:#999999">Conferences of Division I</span>&nbsp;</h2><h1><span style="font-size:48px"><span style="color:#999999">for the 2000 season&nbsp;</span></span></h1></article></div><div style="left:79px;top:100px;width:800px;" class="at-block at-block--pure"><article data-block-id="1576362261730" class="at-block-content"><h1>Network</h1></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574164078239" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/McoLPe.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:79px;top:100px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574163930975" class="at-block-content"><h1>Stastics</h1></article></div><div style="left:79px;top:340px;width:848.6744893524555px;height:auto;" class="at-block at-block--pure"><article data-block-id="1574163930976" class="at-block-content"><ul><li><strong>Number of edges</strong> <span style="color:#999999">613</span></li><li><strong>Number of nodes</strong> <span style="color:#999999">115</span></li><li><strong>Graph Density</strong> <span style="color:#999999">0.0935163996948894</span></li><li><strong>Average shortest path length</strong> <span style="color:#999999">2.5081617086193746</span></li></ul></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574130762827" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/MgkCXq.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:640px;height:480px;left:160px;top:110px;" class="at-block at-block--pure"><article data-block-id="1574130799010" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/MgFcOx.png /></article></div><div style="left:70.65580182529335px;top:93.4463276836158px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574130804961" class="at-block-content"><p>Based on dataset <em><strong>Zachary's karate club</strong></em></p></article></div><div style="width:127.34274711168166px;height:206.66666666666674px;left:4.219140084765172px;top:487.2992319575292px;" class="at-block at-block--pure"><article data-block-id="1576361788885" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/16/MBHlN9.gif /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:79px;top:270px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574163930975" class="at-block-content"><h1>Girvan-Newman Algorithm</h1></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574098904872" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/Mc6rxU.png /></article></div><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574123487544" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/McWIDU.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:960px;height:640.593141797961px;left:0;top:29.70342910101948px;" class="at-block at-block--pure"><article data-block-id="1574166408296" class="at-block-content"><img src=11.gif /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:-106.96305953933074px;top:100px;width:1090.6562364189483px;height:auto0;" class="at-block at-block--pure"><article data-block-id="1574163930975" class="at-block-content"><h1>Evaluation&nbsp;the partitioning</h1></article></div><div style="left:84.56279878313777px;top:302.4511082138201px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574163930976" class="at-block-content"><ul><li>the most used measure is the modularity (Q)</li></ul></article></div><div style="width:662px;height:247px;left:137.87440243372447px;top:368.351368970013px;" class="at-block at-block--pure"><article data-block-id="1574167028425" class="at-block-content"><img src=https://s1.ax1x.com/2019/11/19/M2LU8f.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:960px;height:640.593141797961px;left:0;top:29.70342910101948px;" class="at-block at-block--pure"><article data-block-id="1574166410796" class="at-block-content"><img src=2.gif /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in fade-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574165920455" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/McfFPA.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="fade-in convex-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574165892318" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/Mcfk8I.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:79px;top:270px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574163930975" class="at-block-content"><h1>Best Perfomance Partition</h1></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574126085183" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/Mcob5D.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:70.65580182529335px;top:93.4463276836158px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574166159508" class="at-block-content"><p>Based on dataset <em><strong>Zachary's karate club</strong></em></p></article></div><div style="width:640px;height:480px;left:160px;top:151.72099087353325px;" class="at-block at-block--pure"><article data-block-id="1574166386613" class="at-block-content"><img src=https://s1.ax1x.com/2019/11/19/M2b0W8.png /></article></div><div style="width:127.34274711168166px;height:206.66666666666674px;left:-1.2579673178877784px;top:487.2992319575292px;" class="at-block at-block--pure"><article data-block-id="1576361809256" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/16/MBHlN9.gif /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in fade-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574166466285" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/Mcfk8I.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="fade-in convex-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1574166503322" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/19/McoLPe.png /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="width:960px;height:640px;left:0;top:30px;" class="at-block at-block--pure"><article data-block-id="1576362987858" class="at-block-content"><img src=https://i.loli.net/2019/12/15/1LqUXFomYcgpRV9.png /></article></div><div style="width:127.34274711168166px;height:206.66666666666674px;left:-1.2579673178877784px;top:487.2992319575292px;" class="at-block at-block--pure"><article data-block-id="1576362996607" class="at-block-content"><img src=https://s2.ax1x.com/2019/11/16/MBHlN9.gif /></article></div></section><section data-notes="" data-background-video-loop="true" data-background-video-muted="true" data-background-color="" data-transition="convex-in convex-out"><div style="left:80px;top:260px;width:800px;" class="at-block at-block--pure"><article data-block-id="1574163930975" class="at-block-content"><h1>END.</h1></article></div></section><style>.at-block{ position:absolute }</style></div></div></div>
+
+    <!-- dependencies -->
+		<script src="https://yanshuo.io/assets/player/lib/js/head.min.js"></script>
+		<script src="https://yanshuo.io/assets/player/js/reveal.min.js"></script>
+
+    <!-- init -->
+    <script>
+      Reveal.initialize({
+        controls: true,
+        history: true,
+        center: false,
+
+        transition:             'convex',
+        backgroundTransition:   'convex',
+        transitionSpeed:        'slow',
+
+        // no marked.js
+				// no markdown.js
+				// no highlight.js
+				dependencies: [
+					{ src: 'https://yanshuo.io/assets/player/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'https://yanshuo.io/assets/player/plugin/zoom-js/zoom.js', async: true },
+					{ src: 'https://yanshuo.io/assets/player/plugin/notes/notes.js', async: true }
+				]
+      });
+    </script>
+  </body>
+</html>
